@@ -1,0 +1,26 @@
+customer_id,first_name,last_name,email,city,state,country,signup_date,segment
+C001,James,Anderson,james.anderson@email.com,New York,NY,USA,2021-03-15,Enterprise
+C002,Maria,Garcia,maria.garcia@email.com,Los Angeles,CA,USA,2021-05-22,SMB
+C003,Robert,Johnson,robert.johnson@email.com,Chicago,IL,USA,2020-11-08,Enterprise
+C004,Linda,Martinez,linda.martinez@email.com,Houston,TX,USA,2022-01-30,SMB
+C005,Michael,Brown,michael.brown@email.com,Phoenix,AZ,USA,2021-07-19,Startup
+C006,Patricia,Davis,patricia.davis@email.com,Philadelphia,PA,USA,2020-09-14,Enterprise
+C007,William,Wilson,william.wilson@email.com,San Antonio,TX,USA,2022-03-05,SMB
+C008,Barbara,Taylor,barbara.taylor@email.com,San Diego,CA,USA,2021-12-20,Startup
+C009,David,Thomas,david.thomas@email.com,Dallas,TX,USA,2020-06-17,Enterprise
+C010,Jennifer,Jackson,jennifer.jackson@email.com,San Jose,CA,USA,2022-06-11,SMB
+C011,Richard,White,richard.white@email.com,Austin,TX,USA,2021-02-28,Startup
+C012,Susan,Harris,susan.harris@email.com,Jacksonville,FL,USA,2020-08-03,Enterprise
+C013,Joseph,Martin,joseph.martin@email.com,San Francisco,CA,USA,2022-09-17,SMB
+C014,Jessica,Thompson,jessica.thompson@email.com,Columbus,OH,USA,2021-04-12,Startup
+C015,Thomas,Garcia,thomas.garcia@email.com,Charlotte,NC,USA,2020-12-25,Enterprise
+C016,Sarah,Martinez,sarah.martinez@email.com,Indianapolis,IN,USA,2022-02-14,SMB
+C017,Charles,Robinson,charles.robinson@email.com,Seattle,WA,USA,2021-08-30,Enterprise
+C018,Karen,Clark,karen.clark@email.com,Denver,CO,USA,2022-05-19,Startup
+C019,Christopher,Rodriguez,christopher.rodriguez@email.com,Nashville,TN,USA,2021-01-07,SMB
+C020,Nancy,Lewis,nancy.lewis@email.com,Oklahoma City,OK,USA,2020-07-22,Enterprise
+C021,Daniel,Lee,daniel.lee@email.com,Portland,OR,USA,2022-08-08,Startup
+C022,Betty,Walker,betty.walker@email.com,Las Vegas,NV,USA,2021-10-15,SMB
+C023,Matthew,Hall,matthew.hall@email.com,Memphis,TN,USA,2020-04-29,Enterprise
+C024,Dorothy,Allen,dorothy.allen@email.com,Louisville,KY,USA,2022-11-03,SMB
+C025,Anthony,Young,anthony.young@email.com,Baltimore,MD,USA,2021-06-18,Startup
