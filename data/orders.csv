@@ -1,0 +1,101 @@
+order_id,customer_id,product_id,order_date,quantity,unit_price,discount_pct,status,payment_method,region
+O0001,C001,P001,2023-01-05,2,1299.99,10,Delivered,Credit Card,East
+O0002,C002,P005,2023-01-07,1,449.99,0,Delivered,PayPal,West
+O0003,C003,P003,2023-01-10,4,349.99,15,Delivered,Credit Card,Midwest
+O0004,C004,P006,2023-01-12,2,89.99,5,Delivered,Debit Card,South
+O0005,C005,P002,2023-01-15,3,29.99,0,Delivered,Credit Card,West
+O0006,C006,P008,2023-01-18,1,199.99,10,Delivered,Credit Card,East
+O0007,C007,P010,2023-01-20,2,109.99,0,Delivered,PayPal,South
+O0008,C008,P014,2023-01-22,1,59.99,0,Delivered,Credit Card,West
+O0009,C009,P001,2023-01-25,1,1299.99,20,Delivered,Credit Card,South
+O0010,C010,P007,2023-01-28,2,79.99,0,Delivered,Debit Card,West
+O0011,C011,P013,2023-02-02,3,39.99,0,Delivered,Credit Card,South
+O0012,C012,P004,2023-02-05,1,599.99,10,Delivered,Credit Card,East
+O0013,C013,P009,2023-02-08,4,49.99,0,Delivered,PayPal,West
+O0014,C014,P006,2023-02-10,1,89.99,5,Delivered,Credit Card,Midwest
+O0015,C015,P020,2023-02-14,1,699.99,15,Delivered,Credit Card,East
+O0016,C016,P002,2023-02-17,5,29.99,0,Delivered,Debit Card,Midwest
+O0017,C017,P008,2023-02-20,2,199.99,10,Delivered,Credit Card,West
+O0018,C018,P012,2023-02-22,3,24.99,0,Delivered,PayPal,West
+O0019,C019,P011,2023-02-25,1,129.99,0,Delivered,Credit Card,South
+O0020,C020,P005,2023-02-28,2,449.99,5,Delivered,Credit Card,East
+O0021,C001,P006,2023-03-03,1,89.99,0,Delivered,Credit Card,East
+O0022,C002,P014,2023-03-06,2,59.99,0,Delivered,PayPal,West
+O0023,C003,P007,2023-03-09,3,79.99,0,Delivered,Credit Card,Midwest
+O0024,C004,P001,2023-03-12,1,1299.99,10,Delivered,Debit Card,South
+O0025,C005,P010,2023-03-15,2,109.99,5,Delivered,Credit Card,West
+O0026,C006,P003,2023-03-18,2,349.99,0,Delivered,Credit Card,East
+O0027,C007,P017,2023-03-21,1,149.99,0,Delivered,PayPal,South
+O0028,C008,P019,2023-03-24,4,19.99,0,Delivered,Credit Card,West
+O0029,C009,P005,2023-03-27,1,449.99,10,Delivered,Credit Card,South
+O0030,C010,P008,2023-03-30,1,199.99,0,Delivered,Debit Card,West
+O0031,C011,P004,2023-04-02,1,599.99,20,Delivered,Credit Card,South
+O0032,C012,P002,2023-04-05,6,29.99,0,Delivered,Credit Card,East
+O0033,C013,P013,2023-04-08,2,39.99,0,Delivered,PayPal,West
+O0034,C014,P001,2023-04-11,1,1299.99,15,Delivered,Credit Card,Midwest
+O0035,C015,P006,2023-04-14,3,89.99,5,Delivered,Credit Card,East
+O0036,C016,P009,2023-04-17,5,49.99,0,Delivered,Debit Card,Midwest
+O0037,C017,P020,2023-04-20,1,699.99,10,Delivered,Credit Card,West
+O0038,C018,P007,2023-04-23,2,79.99,0,Delivered,PayPal,West
+O0039,C019,P010,2023-04-26,1,109.99,0,Delivered,Credit Card,South
+O0040,C020,P014,2023-04-29,3,59.99,0,Delivered,Credit Card,East
+O0041,C021,P001,2023-05-02,1,1299.99,10,Delivered,Credit Card,West
+O0042,C022,P005,2023-05-05,2,449.99,0,Delivered,PayPal,West
+O0043,C023,P008,2023-05-08,1,199.99,5,Delivered,Credit Card,East
+O0044,C024,P003,2023-05-11,2,349.99,10,Delivered,Credit Card,Midwest
+O0045,C025,P006,2023-05-14,4,89.99,0,Delivered,Debit Card,East
+O0046,C001,P010,2023-05-17,2,109.99,0,Delivered,Credit Card,East
+O0047,C002,P007,2023-05-20,1,79.99,0,Delivered,PayPal,West
+O0048,C003,P002,2023-05-23,8,29.99,5,Delivered,Credit Card,Midwest
+O0049,C004,P017,2023-05-26,1,149.99,0,Delivered,Debit Card,South
+O0050,C005,P014,2023-05-29,2,59.99,0,Delivered,Credit Card,West
+O0051,C006,P001,2023-06-01,1,1299.99,20,Delivered,Credit Card,East
+O0052,C007,P009,2023-06-04,6,49.99,0,Delivered,PayPal,South
+O0053,C008,P013,2023-06-07,3,39.99,0,Delivered,Credit Card,West
+O0054,C009,P006,2023-06-10,2,89.99,10,Delivered,Credit Card,South
+O0055,C010,P004,2023-06-13,1,599.99,5,Delivered,Debit Card,West
+O0056,C011,P020,2023-06-16,1,699.99,15,Delivered,Credit Card,South
+O0057,C012,P007,2023-06-19,4,79.99,0,Delivered,Credit Card,East
+O0058,C013,P010,2023-06-22,2,109.99,0,Delivered,PayPal,West
+O0059,C014,P002,2023-06-25,5,29.99,0,Delivered,Credit Card,Midwest
+O0060,C015,P008,2023-06-28,1,199.99,10,Delivered,Credit Card,East
+O0061,C016,P001,2023-07-01,1,1299.99,10,Shipped,Debit Card,Midwest
+O0062,C017,P005,2023-07-04,2,449.99,0,Shipped,Credit Card,West
+O0063,C018,P003,2023-07-07,1,349.99,5,Shipped,PayPal,West
+O0064,C019,P006,2023-07-10,3,89.99,0,Shipped,Credit Card,South
+O0065,C020,P010,2023-07-13,2,109.99,10,Shipped,Credit Card,East
+O0066,C021,P014,2023-07-16,4,59.99,0,Shipped,Credit Card,West
+O0067,C022,P007,2023-07-19,1,79.99,0,Shipped,PayPal,West
+O0068,C023,P002,2023-07-22,6,29.99,5,Shipped,Credit Card,East
+O0069,C024,P017,2023-07-25,2,149.99,0,Shipped,Credit Card,Midwest
+O0070,C025,P008,2023-07-28,1,199.99,15,Shipped,Debit Card,East
+O0071,C001,P005,2023-08-01,1,449.99,0,Shipped,Credit Card,East
+O0072,C002,P001,2023-08-04,1,1299.99,10,Shipped,PayPal,West
+O0073,C003,P009,2023-08-07,8,49.99,0,Processing,Credit Card,Midwest
+O0074,C004,P013,2023-08-10,2,39.99,0,Processing,Debit Card,South
+O0075,C005,P004,2023-08-13,1,599.99,20,Processing,Credit Card,West
+O0076,C006,P002,2023-08-16,4,29.99,0,Processing,Credit Card,East
+O0077,C007,P006,2023-08-19,2,89.99,5,Processing,PayPal,South
+O0078,C008,P020,2023-08-22,1,699.99,10,Processing,Credit Card,West
+O0079,C009,P014,2023-08-25,3,59.99,0,Processing,Credit Card,South
+O0080,C010,P001,2023-08-28,1,1299.99,15,Processing,Debit Card,West
+O0081,C011,P007,2023-09-01,2,79.99,0,Processing,Credit Card,South
+O0082,C012,P010,2023-09-04,4,109.99,5,Processing,Credit Card,East
+O0083,C013,P008,2023-09-07,1,199.99,0,Cancelled,PayPal,West
+O0084,C014,P003,2023-09-10,2,349.99,10,Cancelled,Credit Card,Midwest
+O0085,C015,P002,2023-09-13,5,29.99,0,Cancelled,Credit Card,East
+O0086,C016,P017,2023-09-16,1,149.99,0,Cancelled,Debit Card,Midwest
+O0087,C017,P009,2023-09-19,6,49.99,0,Delivered,Credit Card,West
+O0088,C018,P001,2023-09-22,1,1299.99,20,Delivered,PayPal,West
+O0089,C019,P005,2023-09-25,2,449.99,5,Delivered,Credit Card,South
+O0090,C020,P006,2023-09-28,3,89.99,0,Delivered,Credit Card,East
+O0091,C021,P010,2023-10-01,2,109.99,10,Delivered,Credit Card,West
+O0092,C022,P014,2023-10-04,1,59.99,0,Delivered,PayPal,West
+O0093,C023,P007,2023-10-07,4,79.99,0,Delivered,Credit Card,East
+O0094,C024,P001,2023-10-10,1,1299.99,15,Delivered,Credit Card,Midwest
+O0095,C025,P008,2023-10-13,2,199.99,10,Delivered,Debit Card,East
+O0096,C001,P003,2023-10-16,1,349.99,0,Delivered,Credit Card,East
+O0097,C002,P006,2023-10-19,3,89.99,5,Delivered,PayPal,West
+O0098,C003,P020,2023-10-22,1,699.99,10,Delivered,Credit Card,Midwest
+O0099,C004,P002,2023-10-25,6,29.99,0,Delivered,Debit Card,South
+O0100,C005,P005,2023-10-28,2,449.99,15,Delivered,Credit Card,West
