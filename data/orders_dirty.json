@@ -1,0 +1,8 @@
+{"order_id": "O0001", "customer": {"id": "C001", "name": "James Anderson", "city": "New York", "segment": "Enterprise"}, "order_date": "2023-01-05", "amount": 1299.99, "status": "Delivered", "items": ["P001"]}
+{"order_id": "O0002", "customer": {"id": "C002", "name": "Maria Garcia", "city": "Los Angeles", "segment": "SMB"}, "order_date": "2023-01-07", "amount": 449.99, "status": "Delivered", "items": ["P005"]}
+THIS IS NOT VALID JSON AT ALL
+{"order_id": "O0004", "customer": {"id": "C004", "name": "Linda Martinez", "city": "Houston", "segment": "SMB"}, "order_date": "2023-01-12", "amount": "not_a_number", "status": "Delivered", "items": ["P006", "P006"]}
+{"order_id": "O0005", "customer": {"id": "C005", "name": "Michael Brown", "city": "Phoenix", "segment": "Startup"} "order_date": "2023-01-15", "amount": 89.97, "status": "Delivered", "items": ["P002"]}
+{"order_id": "O0006", "customer": {"id": "C006", "name": "Patricia Davis", "city": "Philadelphia", "segment": "Enterprise"}, "order_date": "2023-01-18", "amount": 199.99, "status": "Delivered", "items": ["P008"]}
+{"order_id": "O0007", "customer": null, "order_date": "2023-01-20", "amount": 219.98, "status": "Delivered", "items": ["P010", "P010"]}
+{"order_id": "O0008", "customer": {"id": "C008", "name": "Barbara Taylor", "city": "San Diego", "segment": "Startup"}, "order_date": "2023-01-22", "amount": 59.99, "status": "Delivered", "items": ["P014"]}
